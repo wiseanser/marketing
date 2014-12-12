@@ -37,6 +37,9 @@ twitter bootstrap template mit Featurestichwortliste und Kontaktdaten.
 *Zielgruppe*  
 Klassische Websurfer die Vertrauen zu dem Produkt aufbauen wollen
 
+*Erfolgskriterien*
+Anzahl Besucher je Zeiteinheit die auf die Kickstarterprojektseite weitergehen
+
 Facebook
 --------
 
@@ -61,6 +64,9 @@ Alle 4 Tage soll irgend ein Inhalt geposted werden. Während der Fundingdauer al
 *Zielgruppe*  
 Mögliche Backer der Kampagne
 
+*Erfolgskriterien*
+Anzahl Followers die auch Backer des Kickstarterprojektes sind
+
 Kickstarter
 -----------
 
@@ -78,6 +84,11 @@ Ausgearbeitete Texte, Video
 
 *Zielgruppe*  
 Mögliche Backer der App
+
+*Erfolgskriterien*
+Anzahl Backer  
+Durchschnittliche Backinghöhe je Backer
+Anzahl externer Verlinkungen (Blogposts, ...) auf das Projekt
 
 Twitter
 -------
