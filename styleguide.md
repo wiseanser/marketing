@@ -14,5 +14,5 @@ Ist in der Schriftart Olympia Light. Ein Backslash und eine Zeile darüber ein B
 Schrift
 -------
 
-Für Überschriften: Olympia Light (http://www.fonts.com/de/font/linotype/olympia/light)
+Für Überschriften: Olympia Light (http://www.fonts.com/de/font/linotype/olympia/light)  
 Für Fließtext: Source Sans Pro Exra-Light 200 (https://www.google.com/fonts/specimen/Source+Sans+Pro)
