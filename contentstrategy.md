@@ -17,8 +17,8 @@ Kanäle
 Folgende Kanäle werden bedient, um Inhalte über **forget it!** zu transportieren:
 * Homepage http://forgetit.io
 * Facebook https://facebook.com/forgettingtd
-* Twitter https://twitter.com/forgettingtd
 * Kickstarter 
+* Twitter https://twitter.com/forgettingtd
 
 ###Homepage
 
@@ -79,7 +79,16 @@ Ausgearbeitete Texte, Video
 *Zielgruppe*  
 Mögliche Backer der App
 
+Twitter
+-------
 
+*Warum?*  
+Ja warum, keine Ahnung :-)
 
+*Was?*  
+
+*Wie?*  
+
+*Zielgruppe*  
 
 
