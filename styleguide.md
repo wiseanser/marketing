@@ -10,7 +10,7 @@ mit großem F, hinten Rufzeichen, weisse Schrift, Olympia Light
 Farbschema
 ----------
 
-Türkis des Logos, Weiss, Schwarz, Grau, Orange
+Türkis (#00A88C), Weiss, Schwarz, Grau, Orange
 
 Logo
 ----
