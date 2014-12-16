@@ -4,7 +4,7 @@ Style Guide
 Wortbildmarke
 -------------
 
-Forget it!
+Forget it!  
 mit großem F, hinten Rufzeichen, weisse Schrift, Olympia Light
 
 Farbschema
